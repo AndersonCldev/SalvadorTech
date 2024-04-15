@@ -23,7 +23,8 @@ public class SalvadorTech_exercico05 {
 		}
 
 		System.out.println("Fim");
-		
+		System.out.println("Fim");
+		System.out.println("Fim");
 
 	}
 
